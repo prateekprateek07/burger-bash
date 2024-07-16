@@ -1,1 +1,3 @@
 # burger-bash
+INTRODUCTION: My client has started a new business of selling burger because he read on Instagram feed that „Burger Is the Future! But I knew that burger alone was not going to help him get seed funding to expand his new Burger Empire - so I had one more genius idea to combine with it - I was going to Uberize it - and so Burger Runner was launched! so he started by recruiting “runners” to deliver fresh burger from Burger Runner Headquarters and also maxed out my credit card to pay freelance developers to build a mobile app to accept orders from customers.
+there were the possible complex quries that needs to get solution for 
